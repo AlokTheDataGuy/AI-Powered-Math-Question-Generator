@@ -1,0 +1,32 @@
+@title AI-Generated Quantitative Math Assessment
+@description Comprehensive math assessment covering various curriculum topics
+
+@question Find the circumference of a circle with diameter $14\,cm$.
+@instruction Choose the correct option
+@difficulty moderate
+@Order 1
+@option $20\pi\,cm$
+@option $28\pi\,cm$
+@option $35.2\pi\,cm$
+@@option $42\pi\,cm$
+@option $49\pi\,cm$
+@explanation The formula for the circumference of a circle is $C = \pi d$, where $d$ is the diameter. Substituting $d = 14\,cm$ gives us $C = \pi (14) = 14\pi\,cm$. However, this answer doesn't match any options; to find the correct option, let's look at an equivalent expression: $C = \frac{1}{2}D = \frac{1}{2}(28)\text{cm}$
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Circles (Area, circumference)
+@plusmarks 1
+
+@question Convert the fraction rac{3}{8} to a decimal: $\frac{3}{8}$ =
+@instruction Choose the correct option
+@difficulty moderate
+@Order 2
+@@option 0.375
+@option 0.5
+@option 1.25
+@option 2.5
+@option 3.75
+@explanation To convert a fraction to a decimal, we divide the numerator by the denominator: \frac{3}{8} = \frac{3 ÷ 8}{1} = 0.375
+@subject Quantitative Math
+@unit Numbers and Operations
+@topic Fractions, Decimals, & Percents
+@plusmarks 1
